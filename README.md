@@ -10,9 +10,10 @@ You play as a character who must collect all items and reach the exit, avoiding 
 - Uses basic algorithms to ensure path solvability  
 - Norme-compliant and dynamically handles window events  
 
+<p align="center">
+  <img src="textures/imagen_2025-06-21_174157248.png" width="500"/>
+</p>
 <br>
-<!--![Gameplay Screenshot](assets/screenshot.png)
-<br>-->
 
 ## 🗺️ Map Format
 A valid map is a `.ber` file containing characters:
