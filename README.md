@@ -47,8 +47,8 @@ Run the game
 ### 🕹 Gameplay Mechanics
 |KEY|ACTION|
 |---|---|
-|`W`|Up|
-|`A`|Left|
-|`S`|Down|
-|`D`|Right|
+|`W`, ⬆️|Up|
+|`A`, ⬅️|Left|
+|`S`, ⬇️|Down|
+|`D`, ➡️|Right|
 |`ESC ❌`|Close window| 
