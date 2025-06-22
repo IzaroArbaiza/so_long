@@ -14,15 +14,15 @@
 
 int	key_hook(int key, t_map *m)
 {
-	if (key == KEY_ESQ)
+	if (key == KEY_ESC)
 		exit(0);
-	if (key == KEY_W)
+	if (key == KEY_W || key == KEY_UP)
 		key_w(m);
-	if (key == KEY_S)
+	if (key == KEY_S || key == KEY_DOWN)
 		key_s(m);
-	if (key == KEY_A)
+	if (key == KEY_A || key == KEY_LEFT)
 		key_a(m);
-	if (key == KEY_D)
+	if (key == KEY_D || key == KEY_RIGHT)
 		key_d(m);
 	return (0);
 }

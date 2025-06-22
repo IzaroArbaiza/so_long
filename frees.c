@@ -32,10 +32,8 @@ void	destroy_images(t_map *m)
 void	free_map(t_map *m)
 {
 	int	i;
-	int	j;
 
 	i = 0;
-	j = 0;
 	while (m->map[i])
 	{
 		free(m->map[i]);
