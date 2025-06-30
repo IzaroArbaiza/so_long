@@ -10,9 +10,15 @@ You play as a character who must collect all items and reach the exit, avoiding 
 - Uses basic algorithms to ensure path solvability  
 - Norme-compliant and dynamically handles window events  
 
-<p align="center">
+<!--<p align="center">
   <img src="textures/imagen_2025-06-21_174157248.png" width="500"/>
 </p>
+<br>-->
+
+<p align="center">
+<a href="https://github.com/IzaroArbaiza/so_long/blob/main/textures/Screencast%20from%2006-30-2025%2001%3A45%3A23%20PM.webm" target="_blank">
+  <img src="https://raw.githubusercontent.com/IzaroArbaiza/so_long/main/textures/imagen_2025-06-21_174157248.png" alt="Ver video" />
+</a></p>
 <br>
 
 ## 🗺️ Map Format
