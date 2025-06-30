@@ -16,9 +16,8 @@ You play as a character who must collect all items and reach the exit, avoiding 
 <br>-->
 
 <p align="center">
-<a href="https://github.com/IzaroArbaiza/so_long/blob/main/textures/Screencast%20from%2006-30-2025%2001%3A45%3A23%20PM.webm" target="_blank">
-  <img src="https://raw.githubusercontent.com/IzaroArbaiza/so_long/main/textures/imagen_2025-06-21_174157248.png" alt="Ver video" />
-</a></p>
+  <img src="https://raw.githubusercontent.com/IzaroArbaiza/so_long/main/textures/Screencast%20from%2006-30-2025%2001_55_31%20PM.gif" alt="GIF demo" />
+</p>
 <br>
 
 ## 🗺️ Map Format
